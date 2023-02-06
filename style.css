@@ -1,3 +1,15 @@
-body{
-    background-color: aquamarine;
+img{
+    max-inline-size: 100%;
+    block-size: auto;
 }
+
+body{
+    background-color: #f6f1ed;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
